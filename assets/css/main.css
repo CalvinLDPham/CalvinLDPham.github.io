@@ -6350,8 +6350,8 @@ input, select, textarea {
 /* Gallery (style1) */
 
 	.gallery.style1 {
-		background-color: #ffffff;
-		color: #000000;
+		background-color: #000000;
+		color: #ffffff;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
