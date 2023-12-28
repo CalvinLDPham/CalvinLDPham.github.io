@@ -6350,8 +6350,8 @@ input, select, textarea {
 /* Gallery (style1) */
 
 	.gallery.style1 {
-		background-color: #000000;
-		color: #ffffff;
+		background-color: #ffffff;
+		color: #000000;
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -6374,11 +6374,11 @@ input, select, textarea {
 	}
 
 		.gallery.style1 input, .gallery.style1 select, .gallery.style1 textarea {
-			color: #000000;
+			color: #ffffff;
 		}
 
 		.gallery.style1 a {
-			color: #000000;
+			color: #ffffff;
 		}
 
 			.gallery.style1 a:hover {
@@ -6386,11 +6386,11 @@ input, select, textarea {
 			}
 
 		.gallery.style1 strong, .gallery.style1 b {
-			color: #000000;
+			color: #ffffff;
 		}
 
 		.gallery.style1 h1, .gallery.style1 h2, .gallery.style1 h3, .gallery.style1 h4, .gallery.style1 h5, .gallery.style1 h6 {
-			color: #000000;
+			color: #ffffff;
 		}
 
 		.gallery.style1 blockquote {
